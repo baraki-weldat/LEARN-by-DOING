@@ -2,14 +2,14 @@
 The book is available in: <a href="https://goalkicker.com/AlgorithmsBook"> Algorithms,Notes for Professionals </a>
 # Table of Contents
 
-1. [My first title](#my-first-title)
-2. [My second title](#my-second-title)
+1. [INTRODUCTION TO ALGORITHMS](#Introduction-Algorithms)
+2. [ASYMPTOTIC NOTATIONS](#asymptotic-notations)
 
 
-## My first title
+## INTRODUCTION TO ALGORITHMS
 
 
-## My second title
+## ASYMPTOTIC NOTATIONS
 
 
 
