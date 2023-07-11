@@ -1,10 +1,12 @@
+"""
+SNAKE GAME PROGRAM
+"""
 from random import choice
 
 from PyQt5.QtCore import QRect, QTime
 from PyQt5.QtCore import Qt
 from PyQt5.QtGui import QPainter, QPaintEvent, QPen, QColor, QBrush, QKeyEvent, QResizeEvent
 from PyQt5.QtWidgets import QWidget
-
 
 class Snake:
     def __init__(self):
