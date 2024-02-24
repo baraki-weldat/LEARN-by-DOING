@@ -1,4 +1,0 @@
-# Full Stack Developer Roadmap
-
-
-
