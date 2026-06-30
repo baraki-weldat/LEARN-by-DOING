@@ -32,19 +32,23 @@ Learn:
     * Recursion
     * Dynamic Programming (basic)
 * Time complexity (Big O)
+
 Practice:
 *  150–200 coding questions.
+
 Platforms:
 * LeetCode
 * HackerRank
 
 ## Phase 3: Mathematics for AI (1–2 months)
 Focus on what AI actually uses.
+
 Learn:
 * Linear Algebra
 * Calculus (basic derivatives)
 * Probability
 * Statistics
+
 Important concepts:
 * Vectors
 * Matrices
@@ -58,6 +62,7 @@ Libraries:
 * pandas
 * Matplotlib
 * Seaborn
+
 Projects:
 * Analyze datasets
 * Visualize trends
@@ -72,8 +77,10 @@ Learn:
 * Clustering
 * Feature engineering
 * Model evaluation
+
 Library:
 * scikit-learn
+
 Projects:
 * House price prediction
 * Spam detection
@@ -82,6 +89,7 @@ Projects:
 ## Phase 6: Deep Learning (2 months)
 Framework:
 * PyTorch (recommended) or TensorFlow
+
 Topics:
 * Neural Networks
 * Backpropagation
@@ -89,6 +97,7 @@ Topics:
 * RNNs
 * LSTMs
 * Transformers
+
 Projects:
 * Image classifier
 * Digit recognition
@@ -105,10 +114,12 @@ Learn:
 * Fine-tuning
 * AI agents
 * Function/tool calling
+
 Libraries:
 * Hugging Face Transformers
 * LangChain or LlamaIndex
 * vLLM (optional)
+
 Projects:
 * Chatbot
 * PDF Q&A system
@@ -116,6 +127,7 @@ Projects:
 * AI research assistant
 
 ## Phase 8: MLOps & Deployment (1–2 months)
+
 Learn:
 * Docker
 * APIs with FastAPI
@@ -123,6 +135,7 @@ Learn:
 * Cloud basics
 * CI/CD
 * Model monitoring
+
 Cloud:
 * AWS
 * Google Cloud
@@ -132,10 +145,12 @@ Cloud:
 Learn:
 * SQL
 * PostgreSQL
+
 For AI:
 * Vector databases such as Pinecone, Weaviate, Chroma, or Milvus.
 
 ## Phase 10: Build a Portfolio
+
 Aim for 8–12 high-quality projects, for example:
 * Resume screening AI
 * Medical chatbot
