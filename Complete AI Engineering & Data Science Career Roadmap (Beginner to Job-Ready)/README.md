@@ -8,9 +8,11 @@ Focus on:
     * Modules and packages
 * Git & GitHub
 * Command line basics
+
 Practice:
 * Solve 100+ coding problems.
 * Build simple automation scripts.
+
 Resources:
 * Python documentation
 * Harvard CS50 (for programming fundamentals)
